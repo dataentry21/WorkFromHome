@@ -1,0 +1,238 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- Mirrored from onlinedataentryjob.com/contact-us.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2020 09:07:02 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+<title>Contact Us | OnlineDataEntryJob.com | Online Jobs | Earn Money Online | Work from home </title>
+<meta name="keywords" content="Earn money from home, Part time Jobs, Online Jobs, Data entry job, Earn from home, Online Jobs in India, Internet Income, Internet job, Ad Posting Job, Online Data entry Jobs, Work from home, Online Typing Jobs, earn money, Work at home, part time work, how to earn money online" />
+<meta name="description" content="Online Jobs for students, part time earners, house wives and retired persons. Work at Home." />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="mainblock"><!--inner block starts here -->
+<div id="innerblock"><!--top panel starts here -->
+<link href="css/drop-menu.html" rel="stylesheet" type="text/css" />
+<script>
+var timeout	= 500;
+var closetimer	= 0;
+var ddmenuitem	= 0;
+// open hidden layer
+function mopen(id)
+{	
+	// cancel close timer
+	mcancelclosetime();
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
+}
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+// go close timer
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+// cancel close timer
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+// close layer when click-out
+document.onclick = mclose; 
+</script>
+<!--menu End-->
+ 
+    
+<div id="toppanel">
+  <div class="top1 flt"><a href="index-2.html" class="menu1">
+    <p class="tp_abo1 flt"><font face="Arial" size="3"><strong>Home</strong></font></p>
+
+    </a>
+
+<a href="apply-now.html" class="menu1">
+
+      <p class="tp_abo2 flt"><font face="Arial" size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;Apply Now</strong></font></p>
+
+      </a>
+
+
+<a href="online-demo-work.html" class="menu1">
+        <p class="tp_abo3 flt"><font face="Arial" size="3"><strong>&nbsp;&nbsp;&nbsp;Demo Work</strong></font></p>
+      </a><a href="index-2.html">
+<img src="images/tp_logo.jpg" alt="" class="tp_logo flt" height="100" width="215" /></a>
+</div>
+  <div class="top2 flt"><a href="recent-payouts.html" class="menu1">
+    <p class="tp_abo4 flt"><font face="Arial" size="3"><strong>Recent Payouts</strong></font></p>
+    </a><a href="faqs.html" class="menu1">
+      <p class="tp_abo5 flt"><font face="Arial" size="3"><strong>FAQS</strong></font></p>
+      </a><a href="contact-us.php" class="menu1">
+        <p class="tp_abo6 flt"><font face="Arial" size="3"><strong>Contact Us</strong></font></p>
+      </a>
+     
+
+      </div>
+
+</div>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146355292-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-146355292-2');
+</script>	
+
+
+
+
+
+<!--top panel ends here -->	
+<div id="contentpanel">
+<div class="cp flt">
+<div class="cp_box flt"><span class="cp_wel flt" style="font: bold 13px Arial, Helvetica, sans-serif; color: #4E4E4E; width: 600px"></font></span>
+<p style="float: left; width: 610px">&nbsp;</p><br />
+<p style="float: left; width: 610px"><span class="cp_nul flt" style="width: 570px; line-height: 22px"><font face="arial" size="4">If you have any doubts Feel Free to email us at <a href="mailto:support@onlinedataentryjob.com">support@onlinedataentryjob.com</a> or you can submit your query in the form below.</font></span></p>
+<p>&nbsp;</p>
+
+<form method="post" action="#" enctype="multipart/form-data">
+
+<table cellpadding="2" cellspacing="0" border="0" bgcolor="#FFFFFF">
+<tr>
+<td>
+<div style="" id="mainmsg"> </div>
+</td>
+</tr>
+</table>
+
+<br>
+
+<table cellpadding="2" cellspacing="0" border="0" bgcolor="#FFFFFF">
+
+<tr valign="top">
+ <td nowrap> &nbsp;Name
+</td>
+ <td>
+<input type="text" name="FieldData0" value="" maxlength="100" size="30"> </td>
+</tr>
+
+<tr valign="top">
+ <td nowrap>&nbsp; Email Address
+</td>
+ <td>
+<input type="text" name="FieldData1" value="" maxlength="100" size="30"> </td>
+</tr>
+
+<tr valign="top">
+ <td nowrap>&nbsp; Subject
+</td>
+ <td>
+<input type="text" name="FieldData2" value="" maxlength="100" size="30"> </td>
+</tr>
+
+<tr valign="top">
+ <td nowrap>&nbsp; Message
+</td>
+ <td>
+<textarea name="FieldData3" cols="55" rows="10"></textarea><br> </td>
+</tr>
+
+<tr>
+ <td>&nbsp;</td>
+ <td align="middle">
+<input type="text" name="hida2" value="" maxlength="100" size="3" style="display : none;">
+<input type="submit" class="btn" value="Submit" name="Submit">
+&nbsp; &nbsp; <input type="reset" class="btn" value="  Reset  " name="Clear">
+</td>
+</tr>
+</table>
+
+</form>
+
+<br><br>
+
+
+
+
+
+
+
+<p style="float: left; width: 610px"><span class="cp_nul flt" style="width: 300px"></span><font size="4"><span class="cp_nul flt" style="width: 570px; line-height: 22px"></span></font><br />
+</p>
+<p style="float: left; width: 610px"><font size="5"><span class="cp_nul flt" style="width: 570px">&nbsp;</span></font></p><font size="5"></font>
+<p style="float: left; width: 610px"><span class="cp_nul flt" style="width: 300px; line-height: 22px"></span></p>
+<center><br />
+</center><br />
+<a href="#"><span style="float: left; width: 340px"> </span></a></div></div><a href="#"></a>
+>
+   
+<p class="rp_box flt">
+ 
+<a href="login.html"><img src="images/login.jpg" alt="" class="rp_img1 flt" /></a>
+<img src="images/rp_line.jpg" alt="" class="rp_line flt" height="1" width="257" />
+<a href="#"></a><a href="apply-now.html"><img src="images/rp_img1.jpg" alt="" class="rp_img1 flt" /></a>
+<!--<img src="https://onlinedataentryjob.com/images/rp_line.jpg" alt="" class="rp_line flt" height="1" width="257" />
+<a href="membership-features.php"><img src="https://onlinedataentryjob.com/images/rp_img2.jpg" alt="" class="rp_img1 flt" /></a>--!>
+<img src="https://onlinedataentryjob.com/images/rp_line.jpg" alt="" class="rp_line1 flt" height="1" width="257" />
+<a href="faqs.php"><img src="https://onlinedataentryjob.com/images/rp_img3.jpg" alt="" class="rp_img1 flt" /></a>
+<img src="https://onlinedataentryjob.com/images/rp_line.jpg" alt="" class="rp_line1 flt" height="1" width="257" />
+<a href="partners.php"><img src="https://onlinedataentryjob.com/images/rp_img4.jpg" alt="" class="rp_img1 flt" /></a>
+<img src="https://onlinedataentryjob.com/images/rp_line.jpg" alt="" class="rp_line1 flt" height="1" width="257" />
+<a href="recent-payouts.php" style="color:#989b0c;"><img width="211" height="66" src="https://onlinedataentryjob.com/images/payouts.png" alt="" class="rp_img1 flt" /></a>
+</p>
+
+<!--<p class="rp_box1 flt" style="float:right; margin-right:18px;"><img src="https://onlinedataentryjob.com/images/rp_news.jpg" alt="" class="rp_news flt" height="47" width="274" />
+<span class="rp_mau flt"></span><span class="rp_mau flt"></span></p>--!>
+
+			
+</p>
+</div>
+<p class="footer flt">
+<a href="index.php" class="fo_home flt">Home</a>   <span class="fo_line flt">|</span> 
+<!--<a href="membership-features.php" class="fo_hom flt">Features</a><span class="fo_line flt">|</span>--!>
+<a href="#" class="fo_hom flt">Payment Options</a><span class="fo_line flt">|</span> 
+<a href="partners.php" class="fo_hom flt">Partners</a><span class="fo_line flt">|</span> 
+<a href="terms-and-conditions.php" class="fo_hom flt">Terms and Conditions</a><span class="fo_line flt">|</span>
+<a href="privacy-policy.php" class="fo_hom flt">Privacy policy </a><span class="fo_line flt">|</span>  
+<a href="disclaimer.php" class="fo_hom flt">Earnings Disclaimer</a><span class="fo_line flt">|</span>     			
+<!--<a href="refund-policy.php" class="fo_hom flt">Refund Policy</a><span class="fo_line flt"></span>--!>     			
+<a href="contact-us.php" class="fo_hom flt">Contact us</a>
+<span class="fo_co flt">All rights reserved OnlineDataEntryJob.com 2013</span>
+</p>
+
+
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=11182645; 
+var sc_invisible=1; 
+var sc_security="4c28dcf1"; 
+var sc_https=1; 
+var sc_remove_link=1; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><img class="statcounter"
+src="http://c.statcounter.com/11182645/0/4c28dcf1/1/"
+alt="shopify analytics"></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+</div></div></div>		
+</body>
+
+<!-- Mirrored from onlinedataentryjob.com/contact-us.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2020 09:07:02 GMT -->
+</html>

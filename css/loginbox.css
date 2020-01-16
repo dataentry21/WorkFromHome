@@ -1,0 +1,23 @@
+.right_box{ width:537px;
+		    float:left;
+		    background:#FFFFFF;
+		    border:1px solid #cecece;
+		    padding:15px 10px 50px 10px;
+         }
+.right_box h1{ color:#000;
+               font-size:22px;
+			   font-family:Arial, Helvetica, sans-serif;
+			   font-weight:bold;
+			  }
+.user_box{ width:394px; margin:0 auto; margin-top:10px; }
+.user_box .username{ width:99px; float:left; color:#666666; font-size:13px; line-height:25px;}
+.user_box .input_box{ width:294px; float:right; height:26px;}
+.user_box .input_box input{width:294px; border:1px solid #cecece; height:26px;}
+
+.user_button{ width:392px; margin:0 auto; margin-top:8px; }
+.user_button .username{ width:95px; float:left; color:#666666; font-size:13px; line-height:25px;}
+.user_button .input_box{ width:294px; float:right; height:26px;}
+
+
+
+
